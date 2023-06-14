@@ -10,5 +10,5 @@ public class Main {
         double edadDelPerro = cargaDeDatos.nextDouble();
         double real = 7 * edadDelPerro;
         System.out.println("La Edad de Perro es " + real);
-    }
+     }
 }
